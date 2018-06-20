@@ -11,3 +11,5 @@ end
 def delete_artist
   
 end
+
+each_value
